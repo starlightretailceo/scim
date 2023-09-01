@@ -8,4 +8,4 @@ This module:
 - Creates an IAM policy to read the secrets and attaches it to the role passed into the module.
 - Outputs a list of `secrets` objects to append to the SCIM bridge container definition.
 
-Learn how to use this module in the Terraform deployment example folder's [`README.md`](../README.md#step-1-configure-the-deployment) document.
+Learn how to use this module in the Terraform deployment example folder's [`README.md`](../../README.md#step-1-configure-the-deployment) document.
